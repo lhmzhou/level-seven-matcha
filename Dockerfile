@@ -1,5 +1,4 @@
-# start from golang base image
-FROM golang:alpine as builder
+FROM golang
 
 MAINTAINER Linda Zhou 
 
